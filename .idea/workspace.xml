@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1168064b-f55c-483d-bbe7-77685439e055" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/beego-frame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/darwin_amd64/github.com/astaxie/beego.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/shiena/ansicolor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/api/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,9 +37,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.go" />
         <option value="$PROJECT_DIR$/src/apiproject/main.go" />
         <option value="$PROJECT_DIR$/src/myproject/main.go" />
+        <option value="$PROJECT_DIR$/hello.go" />
+        <option value="$PROJECT_DIR$/src/api/main.go" />
       </list>
     </option>
   </component>
@@ -53,7 +55,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beego-frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beego-frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beego-frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beego-frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beego-frame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beego-frame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -95,6 +118,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -125,8 +149,21 @@
     <entry file="file://$PROJECT_DIR$/pkg/darwin_amd64/github.com/astaxie/beego.a" />
     <entry file="file://$PROJECT_DIR$/src/myproject/conf/app.conf" />
     <entry file="file://$PROJECT_DIR$/src/myproject/tests/default_test.go" />
-    <entry file="file://$PROJECT_DIR$/hello.go" />
     <entry file="file://$PROJECT_DIR$/src/apiproject/main.go" />
     <entry file="file://$PROJECT_DIR$/src/myproject/main.go" />
+    <entry file="file://$PROJECT_DIR$/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
